@@ -1,0 +1,2 @@
+from .STCI_3dSwinTransformerConv import SwinTransformer3DConv
+from .STCI_3dSwinTransformerConv_P3D import SwinTransformer3DConv_P3D
